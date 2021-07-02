@@ -1,2 +1,6 @@
 var:
-  last_build_time: 1625109014
+  last_build_time: 1625205361
+  previously_selected_schema: stroke
+  schema_access_time:
+    luna_pinyin_simp: 1625110156
+    stroke: 1625204878
