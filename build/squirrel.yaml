@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     squirrel: 1613228858
-    squirrel.custom: 1625404175
+    squirrel.custom: 1625404624
 app_options:
   com.apple.Terminal:
     ascii_mode: true
@@ -169,7 +169,7 @@ show_notifications_when: appropriate
 style:
   border_height: 0
   border_width: 0
-  color_scheme: system_blue
+  color_scheme: macos_dark
   comment_font_point: 18
   corner_radius: 10
   font_face: "Lucida Grande"
