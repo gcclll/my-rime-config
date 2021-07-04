@@ -1,2 +1,5 @@
 # my-rime-config
+
 rime input method configuration
+
+UPDATE: /Commits on Jul 4, 2021/
